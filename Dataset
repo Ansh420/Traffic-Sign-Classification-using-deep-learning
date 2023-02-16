@@ -1,0 +1,8 @@
+## Dataset Description:
+
+The dataset contains more than 50,000 images of different traffic signs. 
+The size of the dataset is around 600 MB. 
+The dataset has a train folder which contains images inside each class and a test folder which we will use for testing our model.
+
+### Dataset link: https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+
