@@ -1,0 +1,6 @@
+## Methodology to solve the problem
+
+1. Explore the dataset
+2. Build a CNN model
+3. Train and validate the model
+4. Test the model with test dataset
