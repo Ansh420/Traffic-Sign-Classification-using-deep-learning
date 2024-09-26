@@ -1,9 +1,43 @@
 # Traffic-Sign-Classification-using-deep-learning
 
-You must have heard about the self-driving cars in which the passenger can fully depend on the car for traveling. 
-But to achieve level 5 autonomous, it is necessary for vehicles to understand and follow all traffic rules.
+## Introduction
+This project demonstrates the classification of traffic signs using deep learning techniques. Traffic sign recognition is a crucial component of autonomous vehicles, enabling them to understand and adhere to road rules.
 
-There are several different types of traffic signs like speed limits, no entry, traffic signals, turn left or right, children crossing, no passing of heavy vehicles, etc.
-Traffic signs classification is the process of identifying which class a traffic sign belongs to.
-In this Python project example, we will build a deep neural network model that can classify traffic signs present in the image into different categories. 
-With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles.
+## Data
+**Description**:
+
+The dataset consists of images of various traffic signs, each labeled with its corresponding class. The specific details of the dataset, such as the number of classes, image resolution, and distribution, should be provided here.
+
+## Location:
+
+Specify where the dataset is located or how it can be obtained (e.g., link to a public repository, instructions for downloading).
+
+## Model Architecture
+**Deep Neural Network**:
+
+Describe the architecture of the deep neural network used for traffic sign classification. This includes:
+
+- **Input Layer**: Dimensions and preprocessing steps (e.g., resizing, normalization).
+- **Hidden Layers**: Number of layers, activation functions, and dropout rates.
+- **Output Layer**: Number of neurons (equal to the number of classes) and activation function (e.g., softmax).
+Training:
+
+## Explain the training process:
+
+- **Optimizer**: Algorithm used to update model weights (e.g., Adam, SGD).
+- **Loss Function**: Metric used to measure the model's performance (e.g., categorical cross-entropy).
+- **Training Parameters**: Epochs, batch size, learning rate.
+
+## Evaluation
+**Metrics**:
+
+Describe the metrics used to evaluate the model's performance:
+
+- **Accuracy**: Overall correct classifications.
+- **Precision**: Ratio of correctly classified instances to total predicted instances.
+- **Recall**: Ratio of correctly classified instances to total actual instances.
+- **F1-score**: Harmonic mean of precision and recall.
+
+## Results:
+
+Present the evaluation results, including accuracy, precision, recall, and F1-score. Visualize the results using confusion matrices or other relevant plots.
