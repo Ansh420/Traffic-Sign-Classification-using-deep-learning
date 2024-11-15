@@ -9,10 +9,6 @@ This project demonstrates the classification of traffic signs using deep learnin
 
 The dataset consists of images of various traffic signs, each labeled with its corresponding class. The specific details of the dataset, such as the number of classes, image resolution, and distribution, should be provided here.
 
-## Location:
-
-Specify where the dataset is located or how it can be obtained (e.g., link to a public repository, instructions for downloading).
-
 ## Model Architecture
 **Deep Neural Network**:
 
