@@ -16,7 +16,7 @@ Specify where the dataset is located or how it can be obtained (e.g., link to a 
 ## Model Architecture
 **Deep Neural Network**:
 
-Describe the architecture of the deep neural network used for traffic sign classification. This includes:
+Describe the architecture of the deep neural network used for traffic sign classification.
 
 - **Input Layer**: Dimensions and preprocessing steps (e.g., resizing, normalization).
 - **Hidden Layers**: Number of layers, activation functions, and dropout rates.
