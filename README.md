@@ -38,4 +38,4 @@ Describe the metrics used to evaluate the model's performance:
 
 ## Results:
 
-Present the evaluation results, including accuracy, precision, recall, and F1-score. Visualize the results using confusion matrices or other relevant plots.
+Present the evaluation results, including **accuracy, precision, recall, and F1-score**. Visualize the results using confusion matrices or other relevant plots.
