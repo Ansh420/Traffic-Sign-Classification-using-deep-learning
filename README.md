@@ -17,7 +17,7 @@ Describe the architecture of the deep neural network used for traffic sign class
 - **Input Layer**: Dimensions and preprocessing steps (e.g., resizing, normalization).
 - **Hidden Layers**: Number of layers, activation functions, and dropout rates.
 - **Output Layer**: Number of neurons (equal to the number of classes) and activation function (e.g., softmax).
-
+  
 ## Training:
 
  **Explain the training process**:
