@@ -25,7 +25,7 @@ Describe the architecture of the deep neural network used for traffic sign class
 - **Optimizer**: Algorithm used to update model weights (e.g., Adam, SGD).
 - **Loss Function**: Metric used to measure the model's performance (e.g., categorical cross-entropy).
 - **Training Parameters**: Epochs, batch size, learning rate.
-
+  
 ## Evaluation
 **Metrics**:
 
